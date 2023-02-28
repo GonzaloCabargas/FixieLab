@@ -1,0 +1,15 @@
+
+.carousel-item img{
+    height: 500px;
+}
+
+.rrss img{
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+}
+
+.rrss h5{
+    display: inline;
+}
+
